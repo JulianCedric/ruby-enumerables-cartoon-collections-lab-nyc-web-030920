@@ -27,6 +27,6 @@ snacks = ["crackers", "gouda", "thyme"]
 soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 
 def find_the_cheese(array)
-  array.include
+  array.include? 
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
