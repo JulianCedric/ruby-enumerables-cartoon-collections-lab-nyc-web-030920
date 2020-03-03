@@ -16,7 +16,7 @@ def summon_captain_planet(array)
 array 
 end
 
-
+short_words = ["puff", "go", "two"]
 
 
 def long_planeteer_calls
