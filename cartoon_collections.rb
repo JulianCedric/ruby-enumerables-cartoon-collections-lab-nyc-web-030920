@@ -17,9 +17,10 @@ array
 end
 
 short_words = ["puff", "go", "two"]
+assorted_words = ["two", "go", "industrious", "bop"]
 
-
-def long_planeteer_calls
+def long_planeteer_calls(array)
+  
 end
 
 def find_the_cheese# code an argument here
